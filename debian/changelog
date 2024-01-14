@@ -1,17 +1,11 @@
-cute-icons (1.0.0) UNRELEASED; urgency=medium
+lingmo-systemicons (1.9.9-10) UNRELEASED; urgency=medium
 
-  * Rename to cute-icon
+  * Initial release (LingmoOS)  <lingmo@lingmo.org>
 
- -- Floating dream <2422586862@qq.com>  Sun, 13 Aug 2023 05:07:11 +0800
+ -- LingmoOS Packaging Team <lingmo@lingmo.org>  Sun, 14 Jan 2024 18:33:20 +0800
+ 
+lingmo-systemicons (1.9.9) UNRELEASED; urgency=medium
 
-cute-icons (23.02.8) UNRELEASED; urgency=medium
+  * Initial release (LingmoOS)  <lingmo@lingmo.org>
 
-  * Rename to cute-icon
-
- -- Floating dream <2422586862@qq.com>  Tue, 14 Feb 2023 21:06:52 +0800
-
-cutefish-icons (0.8) unstable; urgency=medium
-
-  * Init
-
- -- CutefishOS <support@cutefishos.com>  Sat, 29 Jan 2022 03:16:02 +0800
+ -- LingmoOS Packaging Team <lingmo@lingmo.org>  Fri, 15 Dec 2023 22:36:35 +0800
