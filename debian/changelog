@@ -1,3 +1,15 @@
+lingmo-systemicons (2.0.2-2) UNRELEASED; urgency=medium
+
+  * Initial release (LingmoOS)  <lingmo@lingmo.org>
+
+ -- LingmoOS Packaging Team <lingmo@lingmo.org>  Sat, 27 Jan 2024 22:25:20 +0800
+
+lingmo-systemicons (2.0.2) UNRELEASED; urgency=medium
+
+  * Initial release (LingmoOS)  <lingmo@lingmo.org>
+
+ -- LingmoOS Packaging Team <lingmo@lingmo.org>  Sat, 27 Jan 2024 22:25:20 +0800
+
 lingmo-systemicons (2.0.1) UNRELEASED; urgency=medium
 
   * Initial release (LingmoOS)  <lingmo@lingmo.org>
